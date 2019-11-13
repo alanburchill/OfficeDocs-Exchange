@@ -35,7 +35,7 @@ Two-step verification helps protect you by making it more difficult for someone 
 
 You set up two-step verification with an email address, phone number, or authenticator app. When you sign in on a new device or from a new location, we'll send you a security code that you enter on the sign-in page as a second form of authentication in addition to your password.
 
-After you have setup two-step verification, you can also obtain an app password that you will have to use in order to use Internet Message Access Protocol (IMAP) migration to copy email from your Outlook.com or Hotmail.com account to your Office 365 for business account. If your Office 365 admin is moving email messages from your Outlook.com or Hotmail.com account to Office 365 on your behalf, you'll need to give him your app password.
+After you have setup two-step verification, you can also obtain an app password that you will have to use in order to use Internet Message Access Protocol (IMAP) migration to copy email from your Outlook.com or Hotmail.com account to your Office 365 for business account. If your Office 365 admin is moving email messages from your Outlook.com or Hotmail.com account to Office 365 on your behalf, you'll need to give them your app password.
 
 ## Turn on two-step verification and create an app password in Outlook.com or Hotmail.com
 
